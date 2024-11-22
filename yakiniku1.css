@@ -1,0 +1,20 @@
+@charset "utf-8";
+.shop{
+	background-color: #EB8E08;
+	width:100%;
+}
+
+.yakiniku{
+	background-color: #EB8E08;
+	float:left;
+	width:100%;
+}
+.wrap{
+	background-color: #EB8E08;
+	display:flex;
+	flex-wrap:wrap;
+}
+.yakiniku div img {
+    width: 30%;
+    height: auto;
+}
